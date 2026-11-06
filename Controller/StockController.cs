@@ -12,7 +12,7 @@ namespace stocktracking.Controller
         {
             var body = await StockService.GetAllStock();
           
-            return Ok(userId + "," + productId);
+            return Ok(body);
         } 
     }
 }
