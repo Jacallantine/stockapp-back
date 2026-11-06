@@ -10,10 +10,13 @@ namespace stocktracking.Controller
     public class StockController : ControllerBase
     {
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public async Task<IActionResult> GetAll([FromQuery] string? userId, [FromQuery] string? productId)
         {
-            await StockService.GetAllStock();
-            return Ok();
-        }
+            var body = await StockService.GetAllStock();
+          
+            return Ok(userId + "," + productId);
+        } 
+        
     }
+
 }
