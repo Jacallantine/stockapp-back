@@ -1,16 +1,7 @@
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http.Json;
-using System.Text.Json;
-using System.Threading.Tasks;
-
-
 namespace stocktracking.Services
 {
     public class Stock
     {
-
-
         public static async Task<string> GetAllStock()
         {
 
@@ -22,6 +13,5 @@ namespace stocktracking.Services
 
             return body;
         }
-        
     }
 }

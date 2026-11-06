@@ -460,19 +460,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jared\\.nuget\\packages\\": {}
+    "C:\\Users\\Local User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jared\\Documents\\stocktracking\\stocktracking.csproj",
+      "projectUniqueName": "C:\\Users\\Local User\\RiderProjects\\stockapp-back\\stocktracking.csproj",
       "projectName": "stocktracking",
-      "projectPath": "C:\\Users\\jared\\Documents\\stocktracking\\stocktracking.csproj",
-      "packagesPath": "C:\\Users\\jared\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jared\\Documents\\stocktracking\\obj\\",
+      "projectPath": "C:\\Users\\Local User\\RiderProjects\\stockapp-back\\stocktracking.csproj",
+      "packagesPath": "C:\\Users\\Local User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Local User\\RiderProjects\\stockapp-back\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jared\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Local User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -480,7 +480,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -535,7 +534,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Users\\Local User\\.dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

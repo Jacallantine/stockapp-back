@@ -35,3 +35,40 @@ C:\Users\jared\Documents\stocktracking\obj\Debug\net10.0\refint\stocktracking.dl
 C:\Users\jared\Documents\stocktracking\obj\Debug\net10.0\stocktracking.pdb
 C:\Users\jared\Documents\stocktracking\obj\Debug\net10.0\stocktracking.genruntimeconfig.cache
 C:\Users\jared\Documents\stocktracking\obj\Debug\net10.0\ref\stocktracking.dll
+C:\Users\Local User\RiderProjects\stockapp-back\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Local User\RiderProjects\stockapp-back\bin\Debug\net10.0\appsettings.json
+C:\Users\Local User\RiderProjects\stockapp-back\bin\Debug\net10.0\stocktracking.staticwebassets.endpoints.json
+C:\Users\Local User\RiderProjects\stockapp-back\bin\Debug\net10.0\stocktracking.exe
+C:\Users\Local User\RiderProjects\stockapp-back\bin\Debug\net10.0\stocktracking.deps.json
+C:\Users\Local User\RiderProjects\stockapp-back\bin\Debug\net10.0\stocktracking.runtimeconfig.json
+C:\Users\Local User\RiderProjects\stockapp-back\bin\Debug\net10.0\stocktracking.dll
+C:\Users\Local User\RiderProjects\stockapp-back\bin\Debug\net10.0\stocktracking.pdb
+C:\Users\Local User\RiderProjects\stockapp-back\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Local User\RiderProjects\stockapp-back\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Local User\RiderProjects\stockapp-back\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Local User\RiderProjects\stockapp-back\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Local User\RiderProjects\stockapp-back\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\stocktracking.csproj.AssemblyReference.cache
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\stocktracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\stocktracking.AssemblyInfoInputs.cache
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\stocktracking.AssemblyInfo.cs
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\stocktracking.csproj.CoreCompileInputs.cache
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\stocktracking.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\stocktracking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\stocktracking.sourcelink.json
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\scopedcss\bundle\stocktracking.styles.css
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\stocktra.B24B9EC8.Up2Date
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\stocktracking.dll
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\refint\stocktracking.dll
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\stocktracking.pdb
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\stocktracking.genruntimeconfig.cache
+C:\Users\Local User\RiderProjects\stockapp-back\obj\Debug\net10.0\ref\stocktracking.dll

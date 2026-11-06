@@ -1,6 +1,4 @@
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using stocktracking.Models;
 using StockService = stocktracking.Services.Stock;
 
 namespace stocktracking.Controller
@@ -16,7 +14,5 @@ namespace stocktracking.Controller
           
             return Ok(userId + "," + productId);
         } 
-        
     }
-
 }
